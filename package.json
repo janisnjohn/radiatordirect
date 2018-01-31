@@ -17,13 +17,13 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "John",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-business-casual.git"
+        "url": "https://github.com/janisnjohn/radiatordirect.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
